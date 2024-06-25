@@ -2,7 +2,7 @@
   "name": "sussy",
   "displayName": "Sussy",
   "publisher": "NajobuTechnology",
-  "description": "Effortlessly create directory structures based on Clean Architecture principles for Dart, and soon compatible with C#. Streamline your project organization with automatic directory setup tailored for scalable and maintainable codebases.",
+  "description": "The project gen tool",
   "version": "1.0.0",
   "author": {
     "name": "Eric Polanco"

@@ -1,6 +1,6 @@
 # Sussy
 
-Sussy is a Visual Studio Code tool that simplifies the creation of directory structures based on Clean Architecture principles for Dart and other languages like C#.
+Effortlessly create directory structures based on Clean Architecture principles for Dart, and soon compatible with C#. Streamline your project organization with automatic directory setup tailored for scalable and maintainable codebases.
 
 ## Features
 
